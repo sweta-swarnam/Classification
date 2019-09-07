@@ -62,4 +62,4 @@ According to classifier, if we are comparing out of these 3 techniques Decision 
 
 ## Problem Solved
 
-In the basis of 7 Features we are able to successfully classify the given sample into respective fruit classes those are Apple, Man
+In the basis of 7 Features we are able to successfully classify the given sample into respective fruit classes those are Apple, Mango,Apple, Mandarin, Orange and Lemon.
